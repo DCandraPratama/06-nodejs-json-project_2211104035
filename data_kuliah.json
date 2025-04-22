@@ -45,5 +45,17 @@
       "courseCode": "PBO",
       "courseName": "Pemrograman Berorientasi Objek"
     }
+    {
+      "courseCode": "PWL",
+      "courseName": "Pemrograman Web Lanjut"
+    },
+    {
+      "courseCode": "PPLG",
+      "courseName": "Pemrograman Perangkat Lunak Generik"
+    },
+    {
+      "courseCode": "PPLK",
+      "courseName": "Pemrograman Perangkat Lunak Komputasi"
+    }
   ]
 }
